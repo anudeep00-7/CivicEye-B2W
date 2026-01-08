@@ -112,8 +112,8 @@ document.addEventListener('DOMContentLoaded', async () => {
             karma: 999
         },
         {
-            username: 'TirupatiGreenFoundation',
-            password: 'ngo_password',
+            username: 'TirupatiGreenFoundation@gmail.com',
+            password: 'ngo1234',
             role: 'ngo'
         }
     ];
@@ -1931,4 +1931,5 @@ document.addEventListener('DOMContentLoaded', async () => {
     window.showAdminOptions = function () { showNotification('Admin options feature coming soon!', 'info'); }
 
     initApp();
+
 });
